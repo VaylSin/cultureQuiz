@@ -93,7 +93,7 @@ const App = () => {
   const numQuestions = questions.length;
 
   useEffect(() => {
-    fetch('http://localhost:3001/questions')
+    fetch('https://raw.githubusercontent.com/VaylSin/cultureQuiz/refs/heads/master/data/db.json')
       .then(response => response.json())
       .then(data => dispatch({ type: "data_received", payload: data }))
       .catch(error => dispatch({ type: "data_failed" }));
