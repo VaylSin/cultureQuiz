@@ -38,7 +38,7 @@ body {
 
 .main {
   @media (max-width: 62rem) {
-    max-width: 50rem;
+    max-width: fit-content;
   }
   width: 50rem;
 }
