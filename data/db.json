@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "Quel est le plus grand océan du monde ?",
+      "options": ["Atlantique", "Pacifique", "Indien", "Arctique"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Qui a peint La Joconde ?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonard de Vinci", "Claude Monet"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Quelle est la capitale du Canada ?",
+      "options": ["Toronto", "Ottawa", "Vancouver", "Montréal"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Quel est l'élément chimique représenté par le symbole 'O' ?",
+      "options": ["Or", "Oxygène", "Osmium", "Oganesson"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "Dans quelle ville se trouve la Tour Eiffel ?",
+      "options": ["Londres", "Paris", "Rome", "Berlin"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Quel est le plus grand désert du monde ?",
+      "options": ["Sahara", "Gobi", "Antarctique", "Kalahari"],
+      "correctOption": 2,
+      "points": 40
+    },
+    {
+      "question": "Combien de continents y a-t-il sur Terre ?",
+      "options": ["5", "6", "7", "8"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Qui est l'auteur de '1984' ?",
+      "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "Jules Verne"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Quel est le plus long fleuve du monde ?",
+      "options": ["Nil", "Amazone", "Yangtsé", "Mississippi"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "Quel est le pays le plus peuplé au monde ?",
+      "options": ["Inde", "États-Unis", "Chine", "Brésil"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Dans quelle année a eu lieu la Révolution française ?",
+      "options": ["1776", "1789", "1804", "1815"],
+      "correctOption": 1,
+      "points": 40
+    },
+    {
+      "question": "Qui a découvert l'Amérique en 1492 ?",
+      "options": ["Vasco de Gama", "Christophe Colomb", "Ferdinand Magellan", "Marco Polo"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Quel est le plus grand pays du monde en superficie ?",
+      "options": ["États-Unis", "Canada", "Russie", "Chine"],
+      "correctOption": 2,
+      "points": 50
+    },
+    {
+      "question": "Qui est l'auteur de la pièce de théâtre 'Hamlet' ?",
+      "options": ["Molière", "Victor Hugo", "William Shakespeare", "Jean Racine"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Quel est le symbole chimique du fer ?",
+      "options": ["Fe", "F", "Fr", "Fi"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Quel est l'inventeur de la théorie de la relativité ?",
+      "options": ["Isaac Newton", "Galilée", "Albert Einstein", "Nikola Tesla"],
+      "correctOption": 2,
+      "points": 40
+    },
+    {
+      "question": "Quel est le plus grand satellite naturel de la Terre ?",
+      "options": ["Io", "Lune", "Titan", "Ganymède"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Quel est le plus grand pays d'Amérique du Sud ?",
+      "options": ["Argentine", "Brésil", "Pérou", "Colombie"],
+      "correctOption": 1,
+      "points": 50
+    },
+    {
+      "question": "Qui a écrit 'Le Petit Prince' ?",
+      "options": ["Antoine de Saint-Exupéry", "Jules Verne", "Marcel Proust", "Jean de La Fontaine"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Quel est le plus haut sommet du monde ?",
+      "options": ["Mont Blanc", "Mont Everest", "K2", "Annapurna"],
+      "correctOption": 1,
+      "points": 50
+    },
+    {
+      "question": "Quelle est la planète la plus proche du Soleil ?",
+      "options": ["Terre", "Mars", "Mercure", "Vénus"],
+      "correctOption": 2,
+      "points": 20
+    }
+  ]
+}
