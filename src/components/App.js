@@ -95,7 +95,7 @@ const App = () => {
   useEffect(() => {
     fetch('https://raw.githubusercontent.com/VaylSin/cultureQuiz/refs/heads/master/data/db.json')
       .then(response => response.json())
-      .then(data => dispatch({ type: "data_received", payload: data }))
+      .then(data => dispatch({ type: "data_received", payload: data.questions }))
       .catch(error => dispatch({ type: "data_failed" }));
   }, []);
 
